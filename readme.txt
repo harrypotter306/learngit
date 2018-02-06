@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is very quick and simple in Git.
 Learning the branch management.
 We will try bug branch now.
+The dev branch is tested here.
